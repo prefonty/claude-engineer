@@ -1,1 +1,8 @@
+# Ignore .env file
 .env
+
+# Ignore other common files/directories
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
